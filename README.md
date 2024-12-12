@@ -5,7 +5,7 @@
 
 <div align="center">
 
-I'm a software engineer at [Alex](https://www.alextherapeutics.com). I mainly like to do the backend but don't refuse some fun frontend! 
+I'm a software engineer at [Alex](https://www.alextherapeutics.com) and based in Stockholm. I mainly like to do the backend but don't refuse some fun frontend! 
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
